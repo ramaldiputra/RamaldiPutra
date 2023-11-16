@@ -5,8 +5,8 @@
 I'm a Fullstack Developer from Indonesia currently based in New York City,NY.
 
 **Here are my contact informations:**
-Email: ramaldiputra@gmail.com
-LinkedIn: www.linkedin.com/in/ramaldi-putra-53b371296
+<br>Email: ramaldiputra@gmail.com
+<br>LinkedIn: www.linkedin.com/in/ramaldi-putra-53b371296
 
 
 <!--
